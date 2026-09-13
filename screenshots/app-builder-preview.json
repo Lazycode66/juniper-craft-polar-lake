@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 862,
+      "bodyTextHash": "979238762924115110087ec9ee4276ab00b348324243f18a566edd792b9d1ecd",
+      "bodyTextPrefix": "Lantern Check Learn AWARENESS DESK Check it before you tap. Past",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 862,
+      "bodyTextHash": "979238762924115110087ec9ee4276ab00b348324243f18a566edd792b9d1ecd",
+      "bodyTextPrefix": "Lantern Check Learn AWARENESS DESK Check it before you tap. Past",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
